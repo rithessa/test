@@ -5,11 +5,11 @@
 	</record>
 	<record>
 		<TestCase>Start the game</TestCase>
-		<PassFail>Fail</PassFail>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>Press some buttons</TestCase>
-		<PassFail>Fail</PassFail>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>Write some words</TestCase>
@@ -17,43 +17,53 @@
 	</record>
 	<record>
 		<TestCase>Make some money</TestCase>
-		<PassFail>Fail</PassFail>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>Buy a game</TestCase>
-		<PassFail>Fail</PassFail>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>Tester B</TestCase>
 	</record>
 	<record>
 		<TestCase>Alll</TestCase>
+		<PassFail>Fail</PassFail>
 	</record>
 	<record>
 		<TestCase>rgh</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>hba</TestCase>
+		<PassFail>Fail</PassFail>
 	</record>
 	<record>
 		<TestCase>d</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>dg</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>na</TestCase>
+		<PassFail>Fail</PassFail>
 	</record>
 	<record>
 		<TestCase>tgn</TestCase>
+		<PassFail>Fail</PassFail>
 	</record>
 	<record>
 		<TestCase>tgn</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>na</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>tgn</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 </TestBook1>
