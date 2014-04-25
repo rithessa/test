@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestBook1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<TestCase>Tester A</TestCase>
+	</record>
+	<record>
+		<TestCase>Start the game</TestCase>
+		<PassFail>Fail</PassFail>
+	</record>
+	<record>
+		<TestCase>Press some buttons</TestCase>
+		<PassFail>Fail</PassFail>
+	</record>
+	<record>
+		<TestCase>Write some words</TestCase>
+		<PassFail>Pass</PassFail>
+	</record>
+	<record>
+		<TestCase>Make some money</TestCase>
+		<PassFail>Fail</PassFail>
+	</record>
+	<record>
+		<TestCase>Buy a game</TestCase>
+		<PassFail>Fail</PassFail>
+	</record>
+	<record>
+		<TestCase>Tester B</TestCase>
+	</record>
+	<record>
+		<TestCase>Alll</TestCase>
+	</record>
+	<record>
+		<TestCase>rgh</TestCase>
+	</record>
+	<record>
+		<TestCase>hba</TestCase>
+	</record>
+	<record>
+		<TestCase>d</TestCase>
+	</record>
+	<record>
+		<TestCase>dg</TestCase>
+	</record>
+	<record>
+		<TestCase>na</TestCase>
+	</record>
+	<record>
+		<TestCase>tgn</TestCase>
+	</record>
+	<record>
+		<TestCase>tgn</TestCase>
+	</record>
+	<record>
+		<TestCase>na</TestCase>
+	</record>
+	<record>
+		<TestCase>tgn</TestCase>
+	</record>
+</TestBook1>

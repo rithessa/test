@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestBook1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <record>
+       <TestCase>Do this</TestCase>
+       <PassFail>Not Tested</PassFail> 
+    </record>
+
+    <record>
+       <TestCase>Do that</TestCase>
+       <PassFail>Not Tested</PassFail>
+    </record>
+
+    <record>
+       <TestCase>And this!</TestCase>
+       <PassFail>Not Tested</PassFail>
+    </record>
+
+</TestBook1>
