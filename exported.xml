@@ -5,11 +5,11 @@
 	</record>
 	<record>
 		<TestCase>Start the game</TestCase>
-		<PassFail>Fail</PassFail>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>Press some buttons</TestCase>
-		<PassFail>Fail</PassFail>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>Write some words</TestCase>
@@ -17,11 +17,11 @@
 	</record>
 	<record>
 		<TestCase>Make some money</TestCase>
-		<PassFail>Fail</PassFail>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>Buy a game</TestCase>
-		<PassFail>Fail</PassFail>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>Tester B</TestCase>
