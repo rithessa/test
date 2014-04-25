@@ -35,7 +35,7 @@
 		<PassFail>Pass</PassFail>
 	</record>
 	<record>
-		<TestCase>hba</TestCase>
+		<TestCase>This is a change</TestCase>
 		<PassFail>Fail</PassFail>
 	</record>
 	<record>
@@ -47,7 +47,7 @@
 		<PassFail>Pass</PassFail>
 	</record>
 	<record>
-		<TestCase>na</TestCase>
+		<TestCase>So is this.</TestCase>
 		<PassFail>Fail</PassFail>
 	</record>
 	<record>
