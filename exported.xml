@@ -28,32 +28,42 @@
 	</record>
 	<record>
 		<TestCase>Alll</TestCase>
+		<PassFail>Fail</PassFail>
 	</record>
 	<record>
 		<TestCase>rgh</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>hba</TestCase>
+		<PassFail>Fail</PassFail>
 	</record>
 	<record>
 		<TestCase>d</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>dg</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>na</TestCase>
+		<PassFail>Fail</PassFail>
 	</record>
 	<record>
 		<TestCase>tgn</TestCase>
+		<PassFail>Fail</PassFail>
 	</record>
 	<record>
 		<TestCase>tgn</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>na</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 	<record>
 		<TestCase>tgn</TestCase>
+		<PassFail>Pass</PassFail>
 	</record>
 </TestBook1>
